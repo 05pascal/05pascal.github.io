@@ -611,7 +611,19 @@ img{
 .skills_model{
   width: 70%;
 }
-.skills_model{
+.skills_storagedata{
+  width: 85%;
+}
+.skills_google{
+  width: 75%;
+}
+.skills_git{
+  width: 80%;
+}
+.skills_knowledge{
+  width: 75%;
+}
+.skills_mltool{
   width: 70%;
 }
 
