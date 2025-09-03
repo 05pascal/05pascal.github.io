@@ -511,19 +511,19 @@ img{
 }
 
 .skills_boot{
-  width: 95%;
+  width: 85%;
 }
 .skills_react{
-  width: 90%;
+  width: 80%;
 }
 .skills_django{
   width: 85%;
 }
 .skills_php{
-  width: 90%;
+  width: 80%;
 }
 .skills_jquery{
-  width: 75%;
+  width: 90%;
 }
 .skills_responsive{
   width: 85%;
@@ -542,44 +542,77 @@ img{
 }
 
 .skills_kali{
-  width: 60%;
+  width: 75%;
 }
 .skills_unbutu{
   width: 72%;
 }
 .skills_pt{
-  width: 80%;
+  width: 70%;
 }
 .skills_network{
   width: 85%;
 }
 .skills_api{
-  width: 70%;
+  width: 80%;
 }
 
 .skills_python{
-  width: 84%;
+  width: 85%;
 }
 .skills_c{
-  width: 60%;
+  width: 80%;
 }
 .skills_ml{
-  width: 58%;
+  width: 88%;
 }
 .skills_dl{
   width: 44%;
 }
 .skills_jupyter{
-  width: 70%;
+  width: 80%;
 }
 .skills_sql{
-  width: 55%;
+  width: 75%;
 }
 .skills_visualization{
   width: 60%;
 }
 .skills_excel{
   width: 65%;
+}
+.skills_statinf{
+  width: 75%;
+}
+.skills_abtest{
+  width: 80%;
+}
+.skills_corre{
+  width: 80%;
+}
+.skills_timeseries{
+  width: 85%;
+}
+.skills_proba{
+  width: 85%;
+}
+.skills_scikit{
+  width: 75%;
+}
+.skills_supervised{
+  width: 80%;
+}
+.skills_unsupervised{
+  width: 80%;
+}
+.skills_featuresengi{
+  width: 75%;
+}
+.skills_model{
+  width: 70%;
+}
+.skills_model{
+  width: 70%;
 }
 
 .skills__close .skills__list{
